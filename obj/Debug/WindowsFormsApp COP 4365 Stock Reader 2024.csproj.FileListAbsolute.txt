@@ -1,0 +1,10 @@
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\obj\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.csproj.AssemblyReference.cache
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\obj\Debug\WindowsFormsApp_COP_4365_Stock_Reader_2024.Form_Control.resources
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\obj\Debug\WindowsFormsApp_COP_4365_Stock_Reader_2024.Properties.Resources.resources
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\obj\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.csproj.GenerateResource.cache
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\obj\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.csproj.CoreCompileInputs.cache
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\bin\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.exe.config
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\bin\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.exe
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\bin\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.pdb
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\obj\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.exe
+C:\Users\ggonz\source\repos\WindowsFormsApp COP 4365 Stock Reader 2024\WindowsFormsApp COP 4365 Stock Reader 2024\obj\Debug\WindowsFormsApp COP 4365 Stock Reader 2024.pdb
