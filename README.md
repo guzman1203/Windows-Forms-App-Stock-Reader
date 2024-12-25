@@ -1,8 +1,8 @@
 Microsoft Technology
 
-Project #3. Stock Analysis project. Part 3. Project #3 is a continuation of Project #2
+Stock Analysis project. Part 3. Project #3 is a continuation of Project #2
 
-Goals: As in project #2, there is no datagridview and we will display multiple stock charts. We will also, as in project 2, identity some candlestick patterns. The difference, however, is that unlike in project #2 where the patterns were 1-candlestick patterns, project #3 introduces the recognition of multi-candlestick patterns (as well as single-candlestick patterns from project #2).
+Goals: There is no datagridview and we will display multiple stock charts. We will also, as in project 2, identity some candlestick patterns. The difference, however, is that unlike in project #2 where the patterns were 1-candlestick patterns, project #3 introduces the recognition of multi-candlestick patterns (as well as single-candlestick patterns from project #2).
 
 Now would be a good time to read about Polymorphism. Please refer to the w3schools.com chapter on polymorphism. It also has an example. If that doesn’t clarify things for you, it will provide you with a reason to ask for clarifications in class or during office hours.
 
