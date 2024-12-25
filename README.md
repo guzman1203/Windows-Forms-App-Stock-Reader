@@ -1,3 +1,5 @@
+Microsoft Technology
+
 Project #3. Stock Analysis project. Part 3. Project #3 is a continuation of Project #2
 
 Goals: As in project #2, there is no datagridview and we will display multiple stock charts. We will also, as in project 2, identity some candlestick patterns. The difference, however, is that unlike in project #2 where the patterns were 1-candlestick patterns, project #3 introduces the recognition of multi-candlestick patterns (as well as single-candlestick patterns from project #2).
